@@ -13,16 +13,3 @@
   height: 100%;
   object-fit: cover;
 }
-.infoContainer {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background: rgba(0, 0, 0, 0.3);
-  color: white;
-  padding: 10px;
-}
-
-.info {
-  text-align: left;
-}
